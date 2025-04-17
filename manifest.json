@@ -1,0 +1,32 @@
+{
+    "name": "Офлайн-заметки",
+    "short_name": "Заметки",
+    "description": "Простое приложение для заметок с офлайн-доступом",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f5f5f5",
+    "theme_color": "#6200ee",
+    "icons": [
+      {
+        "src": "icons/icon-72x72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-96x96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+
+      {
+        "src": "icons/icon-188x188.png",
+        "sizes": "188x188",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-300x300.png",
+        "sizes": "300x300",
+        "type": "image/png"
+      }
+    ]
+  }
